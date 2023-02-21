@@ -27,7 +27,7 @@ public class Principal {
 	 }
 	 
 	 if(p1.getAge() == p2.getAge()){
-			System.out.println(p1.getAge() +" es la mismo nombre que" + p2.getAge());
+			System.out.println(p1.getAge() +" es la mismo edad que" + p2.getAge());
 		}
 		else {
 			System.out.println(p1.getAge() +" NO es la misma edad que " + p2.getAge());
